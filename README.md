@@ -20,9 +20,6 @@ The model is trained for all those actions and the accuracy obtained is approxim
 2. The second task evaluates the ability to make future predictions. Here a video showing part on an activity plus two
 shorter snippets are provided and the model predicts which of the two snippets comes next temporally in the video.   
 
-Since the above model only predicts temporal order of the actions but does not recognize it we are implementing new approach for the action recognition.
-
-After the recognition of the action from the video we extend this model for predicting the action using our previous work.
 
 #### save_data.m file computes the features from the Egocentric Videos and stores it in a matfile
 
