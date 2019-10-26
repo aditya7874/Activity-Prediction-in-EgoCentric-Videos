@@ -1,5 +1,4 @@
 # Action-Prediction-in-EgoCentric-Videos
-Currently working
 ### Taken the link http://www.tamaraberg.com/papers/prediction.pdf "Temporal Perception and Prediction in Ego-Centric Video" as the reference we have written and implemented code for Action Prediction using MATLAB and Tensorflow.
 
 
